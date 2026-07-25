@@ -1,0 +1,34 @@
+PATIENT REGISTRATION
+PATIENT NAME:
+Delgado, Rosa M.
+DATE OF BIRTH: 03/14/1972
+SSN:
+284-56-7901
+MRN:
+7734821
+HEALTH PLAN ID: BCB-441829-00
+ADDRESS:
+CITY:
+ZIP:
+COUNTY:
+PHONE:
+EMAIL:
+
+2847 Willow Creek Drive
+Springfield
+62704
+Sangamon
+(217) 554-3390
+rosa.delgado@gmail.com
+
+MARITAL STATUS:
+RACE:
+ETHNICITY:
+OCCUPATION:
+EDUCATION LEVEL:
+
+Married
+Hispanic or Latino
+Mexican
+Elementary School Teacher
+Bachelor's Degree

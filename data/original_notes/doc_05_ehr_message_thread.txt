@@ -1,0 +1,7 @@
+PATEL,SUNITA 04/14/2025 10:22:15 >Patient called and would like a telehealth
+visit. Her email is sunita.patel@example.com and she connected last time from
+IP 10.0.45.112. She asked to use the patient portal again - the link is
+https://portal.clinichealth.example.org/patient/SP-4492. Her callback number
+is (469) 221-5533.
+WILLIAMS,CAROL 04/14/2025 10:45:00 >Appointment confirmed for 04/21/2025.
+Confirmation sent to email on file.

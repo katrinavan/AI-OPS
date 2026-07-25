@@ -1,0 +1,11 @@
+TELEHEALTH VISIT - INTAKE
+PATIENT:
+Fairbanks, Lydia
+APPOINTMENT DATE: 03/28/2025
+EMAIL:
+lydia.fairbanks@outlook.com
+CONNECTION INFO:
+Portal URL:
+https://patient.myhealth.example.com/visit/LF-20250328
+IP Address:
+192.168.14.37

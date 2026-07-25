@@ -1,0 +1,24 @@
+SOCIAL HISTORY QUESTIONNAIRE
+AGE:
+NATIONALITY:
+COUNTRY OF ORIGIN:
+RELIGION:
+MARITAL STATUS:
+OCCUPATION:
+EDUCATION LEVEL:
+HEIGHT:
+WEIGHT:
+BLOOD TYPE:
+ASTROLOGICAL SIGN:
+
+67
+Nigerian
+Nigeria
+Baptist
+Widowed
+Retired Electrical Engineer
+Master's Degree
+5'10"
+182 lbs
+O positive
+Capricorn

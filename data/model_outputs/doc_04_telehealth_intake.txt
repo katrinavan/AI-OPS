@@ -1,0 +1,11 @@
+TELEHEALTH VISIT - INTAKE
+PATIENT:
+Hayes, Diane
+APPOINTMENT DATE: 04/15/2025
+EMAIL:
+diane.hayes@outlook.com
+CONNECTION INFO:
+Portal URL:
+https://patient.myhealth.example.com/visit/LF-20250328
+IP Address:
+192.168.14.37
