@@ -4,4 +4,4 @@ IP 10.2.88.40. She asked to use the patient portal again - the link is
 https://portal.clinichealth.example.org/patient/SP-4492. Her callback number
 is (469) 221-5533.
 BRENNAN,CAROL 05/09/2025 10:45:00 >Appointment confirmed for 05/13/2025.
-Confirmation sent to email on file.
+Confirmation sent to email on file. 
