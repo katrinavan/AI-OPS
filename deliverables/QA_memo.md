@@ -1,4 +1,4 @@
-# De-identification QA Memo
+# QA Memo
 
 **Reviewer:** Katrina Van
 **Scope:** 8 note/output pairs (registration, referral, social history, telehealth intake, EHR message thread, ED note, device follow-up, billing summary)
