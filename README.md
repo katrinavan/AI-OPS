@@ -1,4 +1,3 @@
-# AI Operations Analyst Take-Home: De-identification QA
 
 ## Overview
 
